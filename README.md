@@ -6,8 +6,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baierchris&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-  🔭 Hoje ainda não trabalho na TI.
+<div> 
+  <a href="https://instagram.com/bayerzxt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+</div>
+
+·🔭 Hoje ainda não trabalho na TI.
   
- 🌱 Estou aprendendo Engenharia de Software.
+·🌱 Estou aprendendo Engenharia de Software.
  
-😄 Pronouns: he/him
+·😄 Pronouns: he/him
