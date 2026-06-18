@@ -21,7 +21,7 @@
 </div>
 
 
-## Redes Sociais
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=80&section=header&text=Redes%20Sociais&fontSize=25&fontColor=ffffff&fontAlignY=55)
 <div> 
   <a href="https://instagram.com/bayerzxt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   <a href = "mailto:christiancbaier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
