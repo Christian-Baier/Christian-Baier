@@ -15,6 +15,9 @@
  
 ·😄 Pronouns: he/him
 
+
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=80&section=header&text=Linguagens&fontSize=25&fontColor=ffffff&fontAlignY=55)
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Baier-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Baier-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
