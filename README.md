@@ -21,6 +21,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Baier-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Baier-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img src="https://github.com/Christian-Baier/gifzinho/blob/main/giphy.gif" width="60px">
 
 </div>
 
@@ -36,4 +37,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Christian-Baier/Christian-Baier/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Christian-Baier/Christian-Baier/output/github-contribution-grid-snake.svg">
 </picture>
-<img src="https://github.com/Christian-Baier/gifzinho/blob/main/giphy.gif" width="100px">
+
